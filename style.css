@@ -1,0 +1,45 @@
+
+/* title-section */
+body{
+       text-align: center;     
+}
+
+
+#title-section
+{
+       background-color:gray;
+      
+}
+
+
+       /* testionial-section */
+  
+#testimonials{
+     
+   background-color:lightcyan;
+ 
+      
+}
+
+.testimonial-img{
+       margin-top: 2%;
+       margin-bottom: 3%;
+       display: inline-block;
+
+}
+
+
+.testimonial-text{
+       top: 5%;
+}
+
+.col{
+       display: inline-block;
+}
+
+
+ /* FOOter section */
+
+ #footer{
+        margin-top: 5%;
+ }
